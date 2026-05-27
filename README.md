@@ -9,7 +9,19 @@ Analyzed a complete E-Commerce dlDataset in SQL first, then built a 3-page Power
 
 ## 📸 Dashboard Preview
 
-> *(Add your 3 dashboard screenshots here — Overview · Product Performance · Operational Insights)*
+Overview Page
+<br>
+![Dashboard Preview](dashboard.png)
+
+Product Performance Page
+<br>
+![Dashboard Preview](dashboard.png)
+
+Operational Insights Page
+<br>
+![Dashboard Preview](dashboard.png)
+
+
 
 ---
 
