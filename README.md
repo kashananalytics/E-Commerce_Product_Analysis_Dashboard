@@ -90,17 +90,6 @@ Same data as above displayed horizontally for easy comparison.
 | Cancelled | 341 |
 | Returned | 331 |
 
-**5. Payment Method — Donut Chart**
-
-| Method | Amount |
-|---|---|
-| Online Banking | 1M |
-| Cash on Delivery | 1M |
-| Credit Card | 1M |
-| Debit Card | 1M |
-
-All four methods are almost equally distributed — no single method dominates.
-
 ---
 
 ## 📊 Page 2 — Product Performance
