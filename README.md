@@ -1,3 +1,6 @@
+<img width="628" height="353" alt="Overview" src="https://github.com/user-attachments/assets/23f890ad-fd00-4f1d-842f-b83a131dfc83" />
+<img width="628" height="352" alt="Product Performance" src="https://github.com/user-attachments/assets/a309cfb1-e7a8-4a9b-910a-0f94fa87b0c1" />
+<img width="627" height="350" alt="Operational Insights" src="https://github.com/user-attachments/assets/d3e23fdc-3f81-46f8-bb6b-01f853fa3da2" />
 # E-Commerce_Product_Analysis_Dashboard
 Analyzed a complete E-Commerce dlDataset in SQL first, then built a 3-page Power BI Dashboard that shows exactly which products are winning, which categories drive the most revenue, and where the operational gaps are hiding.
 
